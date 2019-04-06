@@ -1,6 +1,6 @@
 # IsoplotR
 
-**IsoplotR** 是一个自由的开源软件,是对 Kenneth Ludwig 当年所开发的 Excel 插件 **Isoplot** 的替代品.  本项目包含有 IsoplotR 的核心命令. 图形界面版本在另外一个单独的项目中:
+**IsoplotR** 是一个自由的开源软件,用于同位素地球化学和地质年代学数据处理,由[Pieter Vermeesch](http://ucl.ac.uk/~ucfbpve)开发, 是对 Kenneth Ludwig 当年所开发的 Excel 插件 **Isoplot** 的替代品.  本项目包含有 IsoplotR 的核心命令. 图形界面版本在另外一个单独的项目中:
 [https://github.com/pvermees/IsoplotRgui](https://github.com/pvermees/IsoplotRgui).
 
 ## 预先需求
