@@ -41,7 +41,7 @@ geochronology. Geoscience Frontiers, v.9, p.1479-1493, doi:
 
 [Pieter Vermeesch](http://ucl.ac.uk/~ucfbpve)
 
-############ 中文翻译  [CycleUser](https://www.zhihu.com/people/cycleuser/columns)
+###### 中文翻译  [CycleUser](https://www.zhihu.com/people/cycleuser/columns)
 
 ## 授权协议
 
